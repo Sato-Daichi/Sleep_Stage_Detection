@@ -12,6 +12,7 @@ from sklearn.model_selection import KFold
 from sklearn.metrics import accuracy_score
 
 import sweetviz as sv
+import lightgbm as lgb
 import mne
 
 # 元データのラベルをAASMによる分類IDに変更
