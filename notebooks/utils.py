@@ -10,6 +10,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.model_selection import KFold
 from sklearn.metrics import accuracy_score
+from sklearn.ensemble import RandomForestClassifier
 
 import sweetviz as sv
 import lightgbm as lgb
