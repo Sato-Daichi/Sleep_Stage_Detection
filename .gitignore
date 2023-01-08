@@ -1,3 +1,5 @@
 documents
 data/edf_data
 notebooks/__pycache__
+data/train_df_exp08.pickle
+data/test_df_exp08.pickle
