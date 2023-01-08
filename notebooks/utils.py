@@ -14,6 +14,7 @@ from sklearn.ensemble import RandomForestClassifier
 
 import sweetviz as sv
 import lightgbm as lgb
+import optuna
 import mne
 
 # 元データのラベルをAASMによる分類IDに変更
