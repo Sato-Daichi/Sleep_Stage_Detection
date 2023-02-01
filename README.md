@@ -4,13 +4,17 @@
 
 - [コンペリンク](https://www.nishika.com/competitions/sleep/summary)
 
+- タスク：睡眠ポリグラフ（polysomnography: PSG）から睡眠の深さ（睡眠段階）を予測する（多クラス分類）
+
 - 最終順位：8位（金メダル🥇）
 
     - このリポジトリはチームマージ前にソロで参加していた時のコードであり、8位を取ったコードではありません
 
     - ソロで作成したコードは銅メダル相当です
 
-- タスク：睡眠ポリグラフ（polysomnography: PSG）から睡眠の深さ（睡眠段階）を予測する（多クラス分類）
+    - Public：4位（0.844） → Private：8位（0.849650）
+
+    - [チームの解法](https://www.nishika.com/competitions/sleep/topics/445)
 
 - LightGBMベースの解法とEfficientNetベースの解法に分かれた
 
